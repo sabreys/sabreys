@@ -2,10 +2,11 @@
 
 <p align="center">
   <img src="https://github.com/sabreys/sabreys/blob/main/thunder.gif?raw=true"/>
+  <img src="https://github.com/sabreys/sabreys/blob/main/fcd8c968438fda171cc650d6848f40dc8e82c779_hq.gif?raw=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/sabreys/sabreys/blob/main/fcd8c968438fda171cc650d6848f40dc8e82c779_hq.gif?raw=true"/>
+  
 </p>
 
 - 🔭 I’m currently working on ...
