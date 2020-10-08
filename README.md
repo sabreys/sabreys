@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![enter image description SA](https://github.com/sabreys/sabreys/blob/main/fcd8c968438fda171cc650d6848f40dc8e82c779_hq.gif?raw=true)![enter image description here](https://github.com/sabreys/sabreys/blob/main/thunder.gif?raw=true)![enter image description here](https://github.com/sabreys/sabreys/blob/main/space.gif?raw=true)
-
-![enter image description here](https://github.com/sabreys/sabreys/blob/main/snow.gif?raw=true)
+![enter image description SA](https://github.com/sabreys/sabreys/blob/main/fcd8c968438fda171cc650d6848f40dc8e82c779_hq.gif?raw=true)![enter image description here](https://github.com/sabreys/sabreys/blob/main/thunder.gif?raw=true)![enter image description here](https://github.com/sabreys/sabreys/blob/main/space.gif?raw=true)![enter image description here](https://github.com/sabreys/sabreys/blob/main/snow.gif?raw=true)
 
 
 
