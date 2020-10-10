@@ -8,6 +8,9 @@
   <img src="https://github.com/sabreys/sabreys/blob/main/kindpng_1499923.png?raw=true" width="500" height="30" />
 </p>
 
+
+
+
 Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Flutter</b>, social media apps and currently learning about <b>Machine Learning</b>. I love coding on <b>native android</b> and <b>java</b>. I usually work on small projects  that i need or i wish that to be exist.We have love-hate relationship with<b> C</b>. I use <b>Python</b> for my quick jobs and hobbies.
 
 <p align="center" >
@@ -30,6 +33,7 @@ Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Fl
 
 
 
+
 - 🔭 I’m currently working on social media app that not trying to manipulate you.<img img align="right" src="https://media1.tenor.com/images/1d1c57ceec3e94475c7ba1d3c13393d1/tenor.gif?itemid=10669013" alt="Programmation" width="300"/>
 - 🌱 I’m currently learning Machine Learning and Node js
 - 👯 I’m looking to collaborate on a Firebase+Flutter project.
@@ -42,6 +46,8 @@ Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Fl
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
 </p>
 
+
+
 <p align="right">
    I make programs for cmd.You can download youtube videos,you can download whole channel and you can  encrpyt your files. 
    i will add more usefull  programs in it.
@@ -53,6 +59,8 @@ Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Fl
 <p align="center">
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
 </p>
+
+
 
 
 
