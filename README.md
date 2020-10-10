@@ -22,13 +22,17 @@ Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social medi
 <p align="right">
    I make programs for cmd.You can download youtube videos,you can download whole channel and you can  encrpyt your files. 
    i will add more usefull  programs in it.
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=sabreys_cmd)](https://github.com/sabreys/sabreys_cmd)
 </p>
 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=sabreys_cmd)](https://github.com/sabreys/sabreys_cmd)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
 </p>
+
 
 
 
