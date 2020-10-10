@@ -1,4 +1,4 @@
-### Hi, I'm Sabrey. currently a Third Year CSE student 👋
+   ### Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social media apps and currently learning about Machine Learning. 
 
 <p align="center">
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
@@ -8,14 +8,12 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on social media app that not trying to manipulate you.
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on a Firebase+Flutter project.
+- 📫 How to reach me: 
+- :trollface: sorry for bad grammar.
+- ⚡ Fun fact: Swiping too much will make you less patient.
 
 
 <p align="center">
