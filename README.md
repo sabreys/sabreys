@@ -12,6 +12,8 @@ Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social medi
    <p align="center">
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  <img  src="https://upload.wikimedia.org/wikipedia/commons/archive/3/34/20200802160428%21Android_Studio_icon.svg" alt="android_studio" width="40" height="40"/> 
+   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" alt="android_studio" width="40" height="40"/> 
+
 </p>
 
 
