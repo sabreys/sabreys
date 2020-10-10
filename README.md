@@ -7,7 +7,6 @@ Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social medi
 
 
 
-
 - 🔭 I’m currently working on social media app that not trying to manipulate you.<img img align="right" src="https://media1.tenor.com/images/1d1c57ceec3e94475c7ba1d3c13393d1/tenor.gif?itemid=10669013" alt="Programmation" width="300"/>
 - 🌱 I’m currently learning Machine Learning and Node js
 - 👯 I’m looking to collaborate on a Firebase+Flutter project.
@@ -16,10 +15,12 @@ Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social medi
 - 🔨 I want to learn: Block chain and tor network.
 - ⚡ Fun fact: Swiping too much will make you less patient.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=sabreys_cmd)](https://github.com/sabreys/sabreys_cmd)
 
 <p align="center">
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
 </p>
+
 
 
 <p align="center">
