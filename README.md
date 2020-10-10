@@ -1,7 +1,7 @@
 <p align="center" >
-  <img src="https://github.com/sabreys/sabreys/blob/main/kindpng_1499923.png?raw=true"/>
+  <img src="https://github.com/sabreys/sabreys/blob/main/kindpng_1499923.png?raw=true" width="100" height="40"/>
   <b>  Luck is what happens when preparation meets opportunity. </b> 
-  <img src="https://github.com/sabreys/sabreys/blob/main/kindpng_1499923.png?raw=true"/>
+  <img src="https://github.com/sabreys/sabreys/blob/main/kindpng_1499923.png?raw=true" width="100" height="40" />
 </p>
 
 Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Flutter</b>, social media apps and currently learning about <b>Machine Learning</b>. I love coding on <b>native android</b> and <b>java</b>. I usually work on small projects  that i need or i wish that to be exist.We have love-hate relationship with<b> C</b>. I use <b>Python</b> for my quick jobs and hobbies.
