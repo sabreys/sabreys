@@ -1,8 +1,8 @@
 ### Hi, I'm Sabrey. currently a Third Year CSE student 👋
 
 <p align="center">
-  <img src="https://github.com/sabreys/sabreys/blob/main/thunder.gif?raw=true"/>
-  <img src="https://github.com/sabreys/sabreys/blob/main/fcd8c968438fda171cc650d6848f40dc8e82c779_hq.gif?raw=true"/>
+  <img src="https://github.com/sabreys/sabreys/blob/main/deniz.gif?raw=true"/>
+  <img src="https://github.com/sabreys/sabreys/blob/main/f%C4%B1rt%C4%B1na.gif?raw=true"/>
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
 </p>
 
@@ -21,8 +21,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/sabreys/sabreys/blob/main/space.gif?raw=true"/>
-  <img src="https://github.com/sabreys/sabreys/blob/main/snow.gif?raw=true"/>
+  <img src="https://github.com/sabreys/sabreys/blob/main/kar.gif?raw=true"/>
+  <img src="https://github.com/sabreys/sabreys/blob/main/uzay.gif?raw=true"/>
 </p>
 
 
