@@ -11,7 +11,7 @@ Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social medi
 - 🔭 I’m currently working on social media app that not trying to manipulate you.<img img align="right" src="https://media1.tenor.com/images/1d1c57ceec3e94475c7ba1d3c13393d1/tenor.gif?itemid=10669013" alt="Programmation" width="300"/>
 - 🌱 I’m currently learning Machine Learning and Node js
 - 👯 I’m looking to collaborate on a Firebase+Flutter project.
-- 📫 How to reach me: 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabri-başoğlu-9781a51a8/)
 - :trollface: sorry for bad grammar.
 - 🔨 I want to learn: Block chain and tor network.
 - ⚡ Fun fact: Swiping too much will make you less patient.
