@@ -7,10 +7,11 @@ Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social medi
 
 
 <p align="center" >
-    <b>My Favorites</b>
+    <b>Languages and Tools</b>
    </p>
    <p align="center">
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+   src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="python" width="40" height="40"/> 
 </p>
 
 
