@@ -1,4 +1,4 @@
-Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social media apps and currently learning about Machine Learning. I love coding on native android and java. I usually work on small projects  that i need or i wish that to be exist.We have love-hate relationship with C. I use Python for my quick jobs and hobbies.
+Hi, I'm Sabrey.I'm interested in working on  <b>Firebase</b>(💘), <b>Flutter</b>, social media apps and currently learning about <b>Machine Learning</b>. I love coding on <b>native android</b> and <b>java</b>. I usually work on small projects  that i need or i wish that to be exist.We have love-hate relationship with<b> C</b>. I use <b>Python</b> for my quick jobs and hobbies.
 
 <p align="center" >
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
