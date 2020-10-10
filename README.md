@@ -17,9 +17,9 @@ Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social medi
 
 <p align="center">
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=sabreys_cmd)](https://github.com/sabreys/sabreys_cmd)
 </p>
 
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=sabreys_cmd)](https://github.com/sabreys/sabreys_cmd)
 
 <p align="center">
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
