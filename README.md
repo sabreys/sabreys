@@ -1,13 +1,13 @@
 Hi, I'm Sabrey.I'm interested in working on Firebase(💘), Flutter, social media apps and currently learning about Machine Learning. I love coding on native android and java. I usually work on small projects  that i need or i wish that to be exist.We have love-hate relationship with C. I use Python for my quick jobs and hobbies.
 
-<p align="center">
+<p align="center" >
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
 </p>
 
 
 
-<p align="center">
-    My Favorites
+<p align="center" >
+    <b>My Favorites</b>
    </p>
    <p align="center">
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
