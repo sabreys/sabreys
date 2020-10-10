@@ -1,6 +1,7 @@
 <p align="center" >
   <img src="https://github.com/sabreys/sabreys/blob/main/kindpng_1499923.png?raw=true" width="500" height="30"/>
-  <b>  Luck is what happens when preparation meets opportunity. </b> 
+  
+  <b>  Luck is what happens when preparation meets opportunity.</b> 
   <img src="https://github.com/sabreys/sabreys/blob/main/kindpng_1499923.png?raw=true" width="500" height="30" />
 </p>
 
