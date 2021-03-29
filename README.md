@@ -39,6 +39,7 @@ Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Fl
 - 👯 I’m looking to collaborate on a Firebase+Flutter project.
 - :trollface: sorry for bad grammar.
 - 🔨 I want to learn: Block chain and tor network.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabri-başoğlu-9781a51a8/)
 - ⚡ Fun fact: Swiping too much will make you less patient.
 
 
