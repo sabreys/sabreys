@@ -58,9 +58,7 @@ Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Fl
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=sabreys_cmd)](https://github.com/sabreys/sabreys_cmd)
 
 
-<p align="center">
-   <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
-</p>
+
 
 
 
