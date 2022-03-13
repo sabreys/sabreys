@@ -52,7 +52,7 @@ Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Fl
 
 <p align="right">
    I make programs for cmd.You can download youtube videos,you can download whole channel and you can  encrpyt your files. 
-   i will add more usefull  programs in it.
+   this project is temporarily closed.
 </p>
 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=sabreys_cmd)](https://github.com/sabreys/sabreys_cmd)
