@@ -46,7 +46,7 @@ Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Fl
 
 
 <p align="right">
-   I make programs for cmd.You can download youtube videos,you can download whole channel and you can  encrpyt your files. 
+   I make programs for CLI.You can download youtube videos,you can download whole channel and you can  encrpyt your files. 
    this project is temporarily closed.
 </p>
 
