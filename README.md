@@ -34,7 +34,7 @@ Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Fl
 
 
 
-- 🔭 I’m currently working on social media app that not trying to manipulate you.<img img align="right" src="https://media1.tenor.com/images/1d1c57ceec3e94475c7ba1d3c13393d1/tenor.gif?itemid=10669013" alt="Programmation" width="300"/>
+src="https://media1.tenor.com/images/1d1c57ceec3e94475c7ba1d3c13393d1/tenor.gif?itemid=10669013" alt="Programmation" width="300"/>
 - 🌱 I’m currently learning Machine Learning and Node js
 - 👯 I’m looking to collaborate on a Firebase+Flutter project.
 - :trollface: sorry for bad grammar.
