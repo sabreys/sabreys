@@ -4,9 +4,9 @@
   </p>
 
 
+Hi, I'm <b>Sabrey</b>. Here I turn my own ideas into mobile applications with Flutter. I like to set up my own servers and try new technologies like <b>Firebase, Meilisearch, Google Cloud services</b> in my projects. Academically, I am working on data anonymization algorithms that are efficient in terms of data utility with Python(Paper will be published soon. Stay tuned :bowtie:). I mostly use <b>Node.js</b> but these days I'm trying <b>Flask</b>. 
+I like to deal with A.I models and try to integrate them as natively into my mobile applications. I have a long association with <b>Firebase</b> and love to use cloud technologies (as long as they are cheap 😪 exchange rate difference is an issue for production)
 
-
-Hi, I'm <b>Sabrey</b>.I'm interested in working on  <b>Firebase</b>(💘), <b>Flutter</b>, social media apps and currently learning about <b>Machine Learning</b>. I love coding on <b>native android</b> and <b>java</b>. I usually work on small projects  that i need or i wish that to be exist.We have love-hate relationship with<b> C</b>. I use <b>Python</b> for my quick jobs and hobbies.
 
 <p align="center" >
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
