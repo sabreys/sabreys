@@ -59,8 +59,12 @@ I like to deal with A.I models and try to integrate them as natively into my mob
  <b>Flask</b>-<b>Flutter</b>-<b>JWT</b>-<b>Google ML-Kit</b>-<b>Digitial Ocean App Platform</b>
  </p>
  
+ </p>
+<p align="center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=readable_cryption&show_owner=true)](https://github.com/sabreys/readable_cryption)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=readable_cryption_server&show_owner=true)](https://github.com/sabreys/readable_cryption_server)
+ </p>
+
 
 
 
