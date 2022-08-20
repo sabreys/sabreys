@@ -60,6 +60,7 @@ I like to deal with A.I models and try to integrate them as natively into my mob
  </p>
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=readable_cryption&show_owner=true)](https://github.com/sabreys/readable_cryption)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=readable_cryption_server&show_owner=true)](https://github.com/sabreys/readable_cryption_server)
 
 
 
