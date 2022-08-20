@@ -36,12 +36,12 @@ I like to deal with A.I models and try to integrate them as natively into my mob
 
 
 
-- 🌱 I’m currently learning Machine Learning and Node js
-- 👯 I’m looking to collaborate on a Firebase+Flutter project.
+- 🌱 I’m currently learning Kafka and Kubernetes.
+- 👯 I’m looking to collaborate on a Flutter project.
 - :trollface: sorry for bad grammar.
-- 🔨 I want to learn: Block chain and tor network.
+- 🔨 I want to learn: Cloud Security and Mobile Application Penetration Testing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabri-başoğlu-9781a51a8/)
-- ⚡ Fun fact: Swiping too much will make you less patient.
+- ⚡ Fun fact: I hate .Net
 
 
 
@@ -52,11 +52,13 @@ I like to deal with A.I models and try to integrate them as natively into my mob
 
 
 <p align="right">
-   I make programs for CLI.You can download youtube videos,you can download whole channel and you can  encrpyt your files. 
-   this project is temporarily closed.
+   My last micro project is Readable Cryption App. With this application, you can encrypt in a readable way. It works on web, Android and IOS platforms. I am writing the development phase of this application on Medium. Image processing features will be added soon.
+ 
 </p>
-
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=sabreys_cmd)](https://github.com/sabreys/sabreys_cmd)
+<p align="center">
+ <b>Flask</b> <b>Flutter</b> <b>JWT</b> <b>Google ML-Kit</b> <b>Digitial Ocean App Platform</b>
+ </p>
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=readable_cryption)](https://github.com/sabreys/readable_cryption)
 
 
 
