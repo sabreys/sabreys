@@ -41,7 +41,7 @@ I like to deal with A.I models and try to integrate them as natively into my mob
 - :trollface: sorry for bad grammar.
 - 🔨 I want to learn: Cloud Security and Mobile Application Penetration Testing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabri-başoğlu-9781a51a8/)
-- ⚡ Fun fact: I hate .Net
+- ⚡ Fun fact:  <b> I am looking for a job </b> 
 
 
 
