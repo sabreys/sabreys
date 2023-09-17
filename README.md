@@ -4,7 +4,7 @@
   </p>
 
 
-Hi, I'm <b>Sabrey</b>. Here I turn my own ideas into applications with <b>Flutter,Node.js, and Firebase</b>. I like to set up my own servers and try new technologies in my projects.I usually don't publish the projects where I experiment with new technologies, but I try to share code snippets that I think could be useful. Academically, I am working on data anonymization algorithms that are efficient in terms of data utility with Python(Paper will be published soon. Stay tuned :bowtie:). I like to deal with A.I models and try to integrate them as natively into my mobile applications. I have a long association with <b>Firebase</b> and love to use cloud technologies 
+Hi, I'm <b>Sabrey</b>. Here I turn my own ideas into applications with <b>Flutter,Node.js, and Firebase</b>. I like to set up my own servers and try new technologies in my projects.I usually don't publish the projects where I experiment with new technologies, but I try to share code snippets that I think could be useful. Academically, I am working on data anonymization algorithms that are efficient in terms of data utility with Python(Paper will be published soon. Stay tuned :bowtie:). I like to deal with A.I models and try to integrate them as natively into my mobile applications.
 
 
 <p align="center" >
