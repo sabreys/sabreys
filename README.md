@@ -4,8 +4,7 @@
   </p>
 
 
-Hi, I'm <b>Sabrey</b>. Here I turn my own ideas into mobile applications with <b>Flutter</b>. I like to set up my own servers and try new technologies like <b>Firebase, Meilisearch, Google Cloud services</b> in my projects. Academically, I am working on data anonymization algorithms that are efficient in terms of data utility with Python(Paper will be published soon. Stay tuned :bowtie:). I mostly use <b>Node.js</b> but these days I'm trying <b>Flask</b>. 
-I like to deal with A.I models and try to integrate them as natively into my mobile applications. I have a long association with <b>Firebase</b> and love to use cloud technologies (as long as they are cheap 😪 exchange rate difference is an issue for production)
+Hi, I'm <b>Sabrey</b>. Here I turn my own ideas into applications with <b>Flutter,Node.js, and Firebase</b>. I like to set up my own servers and try new technologies in my projects.I usually don't publish the projects where I experiment with new technologies, but I try to share code snippets that I think could be useful. Academically, I am working on data anonymization algorithms that are efficient in terms of data utility with Python(Paper will be published soon. Stay tuned :bowtie:). I like to deal with A.I models and try to integrate them as natively into my mobile applications. I have a long association with <b>Firebase</b> and love to use cloud technologies 
 
 
 <p align="center" >
@@ -36,8 +35,6 @@ I like to deal with A.I models and try to integrate them as natively into my mob
 
 
 - 👯 I’m looking to collaborate on a Flutter project.
-- :trollface: sorry for bad grammar.
-- 🔨 Obsessed with stable diffusion
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabri-başoğlu-9781a51a8/)
 
 
