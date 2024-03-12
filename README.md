@@ -46,18 +46,6 @@ Hi, I'm <b>Sabrey</b>. Here I turn my own ideas into applications with <b>Flutte
 
 
 
-<p align="right">
-   My last micro project is Readable Cryption App. With this application, you can encrypt in a readable way. It works on web, Android and IOS platforms. I am writing the development phase of this application on Medium. Image processing features will be added soon.
- 
-</p>
-<p align="center">
- <b>Flask</b>-<b>Flutter</b>-<b>JWT</b>-<b>Google ML-Kit</b>-<b>Digitial Ocean App Platform</b>
- </p>
- 
- </p>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=readable_cryption&show_owner=true)](https://github.com/sabreys/readable_cryption)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sabreys&repo=readable_cryption_server&show_owner=true)](https://github.com/sabreys/readable_cryption_server)
 
 
 
