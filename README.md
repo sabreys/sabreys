@@ -4,8 +4,20 @@
   </p>
 
 
-Hi, I'm <b>Sabrey</b>. Here I turn my own ideas into applications with <b>Flutter,Node.js, and Firebase</b>. I like to set up my own servers and try new technologies in my projects.I usually don't publish the projects where I experiment with new technologies, but I try to share code snippets that I think could be useful. Academically, I am working on data anonymization algorithms that are efficient in terms of data utility with Python(Paper will be published soon. Stay tuned :bowtie:). I like to deal with A.I models and try to integrate them as natively into my mobile applications.
+# Hi there! I'm **Sabri** 👋
 
+Senior Flutter developer specialized in payment systems, KYC solutions, and high-impact mobile applications. I enjoy transforming complex ideas into elegant solutions.
+
+### What I Do 🚀
+- Crafting cross-platform applications with Flutter
+- Exploring mobile AI/ML implementations and Fine-tuning LLM models 
+- Researching privacy-protected data algorithms
+
+### Tech Stack 💻
+`Flutter` `Dart` `BLoC` `Kotlin` `WebRTC` `CI/CD` 
+`Payment Systems` `KYC` `Android Native`
+
+I love exploring new technologies and finding innovative solutions. While most experimental projects stay private, you'll find useful code snippets here. Currently working on privacy-protected data publishing algorithms - stay tuned! 🔬
 
 <p align="center" >
    <img src="https://github.com/sabreys/sabreys/blob/main/Untitled-2.png?raw=true"/>
